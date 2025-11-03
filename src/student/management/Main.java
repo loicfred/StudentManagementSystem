@@ -4,7 +4,7 @@ import student.management.object.Student;
 import student.management.object.StudentLinkedList;
 import student.management.ui.MainWindow;
 
-// This code has been written by Loic Fred Cheerkoot.
+// This code has been written by Cheerkoot Loic Fred.
 public class Main {
 
     // The main static object which will be used as the list throughout the program.
