@@ -36,7 +36,7 @@ Allow sorting by multiple columns by selecting them in order of priority.
 This one Age -> Gender -> Surname
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/6d126bfe-9457-4128-affd-b0756cf54adf" />
-<img width="278" alt="image" src="https://github.com/user-attachments/assets/3ff3cbd9-a58e-417f-82de-34acac48096b" />
+<img width="277" alt="image" src="https://github.com/user-attachments/assets/3ff3cbd9-a58e-417f-82de-34acac48096b" />
 
 ## Other
 In the corner are bonus shortcuts.
