@@ -12,6 +12,7 @@ The objective was to implement a List, Sort and Search functions myself without 
 
 ## Main Program
 This is the main application window.
+
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/579511d8-ca00-487d-b78b-6451e4388552" />
 
 ## Real-Time Search Bar
