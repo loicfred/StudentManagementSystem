@@ -29,7 +29,7 @@ Clicking on Edit opens the edit screen for the student.
 The list can be sorted by clicking on the column header (Ascending/Descending).   
 This example is when clicking on the Surname header.
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/06cc1021-5929-4ab1-a363-e36ab2d146a2" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/06cc1021-5929-4ab1-a363-e36ab2d146a2" />
 
 ## Advanced Sort
 Allow sorting by multiple columns by selecting them in order of priority.  
