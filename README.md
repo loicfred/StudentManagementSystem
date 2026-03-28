@@ -4,6 +4,7 @@ A fully functional system where we can input, delete, search and sort students f
 The objective was to implement a List, Sort and Search functions myself without the use of built-in libraries.
 
 **Applied Skills:**
+- Java Swing
 - Java Data Structures & Algorithm
 - Linked List
 - Bubble Sort
