@@ -1,7 +1,7 @@
 # Student Management System
 
 A fully functional system where we can input, delete, search and sort students for my **Data Structures & Algorithm** module in university.
-The objective was to implement a List, Sort and Search functions myself without the use of built-in libraries.
+The objective was to implement a **LinkedList**, **Sort** and **Search** functions myself without the use of built-in libraries.
 
 **Applied Skills:**
 - Java Swing
