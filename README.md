@@ -15,7 +15,7 @@ This is the main application window.
 
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/579511d8-ca00-487d-b78b-6451e4388552" />
 
-## Real-Time Search Bar
+## Search Bar
 The list is filtered real-time when typing in the search bar.
 
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/ce06f2c4-2281-4517-8527-437d0d792fc9" />
